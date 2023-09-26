@@ -1,5 +1,3 @@
-# ArminC-Scoala-Soferi
-
 > Arhiva cu resurse folositoare pentru scoala de soferi, cu precadere in baza legislatiei din Romania, compatibila U.E. dar si international, precum Marea Britanie.
 
 #### Alte materiale
